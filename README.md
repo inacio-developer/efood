@@ -56,10 +56,3 @@ Os dados utilizados no projeto são fornecidos por uma API Fake, acessível no s
      npm run prettier
      ```
 4. Abra [http://localhost:3000](http://localhost:3000) para ver o eFood no seu navegador.
-
-## Próximas Implementações
-
-- Realizar requisição da API proposta e sintonizar os produtos de acordo com os dados da API.
-- Criação de modal ao clicar para comprar produto.
-- Sistema de carrinho de compras.
-- Criação da página de entrega de pedidos e funcionalidades dela.
