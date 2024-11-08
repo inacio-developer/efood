@@ -1,6 +1,5 @@
 import { SyncLoader } from 'react-spinners';
 import { Container } from '../../containers/Default';
-
 const Loader = () => (
   <Container
     styles={{
