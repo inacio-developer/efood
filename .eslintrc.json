@@ -1,0 +1,10 @@
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "rules": {
+    "no-unused-vars": "warn", // Avisar sobre variáveis não usadas
+    "no-console": "off", // Permitir uso de console.log
+    "quotes": ["error", "single"], // Forçar aspas simples
+    "semi": ["error", "always"], // Forçar ponto e vírgula
+    "curly": ["error", "multi-line"] // Permitir código sem {} se estiver em uma linha
+  }
+}
